@@ -1,8 +1,11 @@
 央视频道,#genre#
-更新日期: 2026-3-1 18:24:22,http://play.kankanlive.com/live/1698234869325962.m3u8
+更新日期: 2026-3-2 07:05:27,http://pull-hls-f11.douyincdn.com/media/stream-407172513745863340.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773010902&major_anchor_level=common&sign=aa90e55485504af127f53d5650098dfd&t_id=037-20260302070141A366E492B4E00DF778F8-t3Phaa
+CCTV1综合,http://pull-hls-f11.douyincdn.com/media/stream-407172513745863340.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773010902&major_anchor_level=common&sign=aa90e55485504af127f53d5650098dfd&t_id=037-20260302070141A366E492B4E00DF778F8-t3Phaa
+CCTV1综合,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV2财经,http://116.115.6.103:1234/631780532?reptoken=R/mg&auth=
 CCTV3综艺,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
+CCTV4中文国际,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv4hd8m/8000000/mnf.m3u8
 CCTV4中文国际,http://116.115.6.103:1234/631780421?reptoken=R/mg&auth=
 CCTV5体育,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV6电影,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv6hd/4000000/mnf.m3u8
@@ -31,10 +34,13 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 东南卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
 重庆卫视,https://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/01.m3u8?&HlsSubType=&encrypt=
 吉林卫视,https://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/01.m3u8?&HlsSubType=&encrypt=
+吉林卫视,http://116.115.6.103:1234/947472500?reptoken=R/mg&auth=
 江西卫视,http://116.115.6.103:1234/783847495?reptoken=R/mg&auth=
-陕西卫视,http://116.115.6.103:1234/738910838?reptoken=R/mg&auth=
+海南卫视,http://116.115.6.103:1234/947472502?reptoken=R/mg&auth=
 兵团卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/01.m3u8?&HlsSubType=&encrypt=
 广东地区,#genre#
+广东民生,http://183.11.239.36:808/hls/18/index.m3u8
+广东移动,http://183.11.239.36:808/hls/14/index.m3u8
 广东少儿,http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
 广东少儿,http://183.11.239.36:808/hls/175/index.m3u8
 广东影视,https://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?&HlsSubType=&encrypt=
@@ -102,6 +108,7 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 龙泉电视台,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 江苏地区,#genre#
+南京文旅纪录,http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
 南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
 宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 黑龙江地区,#genre#
@@ -151,9 +158,11 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 云南地区,#genre#
 腾冲综合,http://live.ynurl.com/video/s10012-TCTV/index.m3u8
 砚山县电视台,http://live.ynurl.com/video/s10020-ystv-zb/index.m3u8
-西畴县电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel11/playlist.m3u8
 西畴县电视台,http://live.ynurl.com/video/s10060-XCTV/index.m3u8
 马关县电视台,http://live.ynurl.com/video/s10046-001/index.m3u8
+麻栗坡电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
+丘北县电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
+广南县电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel19/playlist.m3u8
 广南县电视台,http://live.ynurl.com/video/s10031-gnxgbds/index.m3u8
 芒市综合,http://live.ynurl.com/video/s10001-mstv1/index.m3u8
 盈江综合,http://live.ynurl.com/video/s10016-yjtv1hd/index.m3u8
@@ -319,6 +328,7 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 秦安电视台,https://play.kankanlive.com/live/1680577080200944.m3u8
 秦安电视台,http://play.kankanlive.com/live/1680577080200944.flv
 超清频道,#genre#
+CCTV1超清,http://pull-hls-f11.douyincdn.com/media/stream-407172513745863340.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773010902&major_anchor_level=common&sign=aa90e55485504af127f53d5650098dfd&t_id=037-20260302070141A366E492B4E00DF778F8-t3Phaa
 CCTV1超清,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 CCTV2超清,http://116.115.6.103:1234/631780532?reptoken=R/mg&auth=
 CCTV3超清,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
