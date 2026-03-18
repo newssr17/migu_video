@@ -1,6 +1,5 @@
 央视频道,#genre#
-更新日期: 2026-3-18 06:50:42,http://pull-hls-f11.douyincdn.com/media/stream-695495633950212780.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774392580&major_anchor_level=common&sign=8e8ee728e46d27c49efd41867c90cfb9&t_id=037-202603180649390C97795E3464C40E5141-Np7dOl
-CCTV1综合,http://pull-hls-f11.douyincdn.com/media/stream-695495633950212780.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774392580&major_anchor_level=common&sign=8e8ee728e46d27c49efd41867c90cfb9&t_id=037-202603180649390C97795E3464C40E5141-Np7dOl
+更新日期: 2026-3-18 09:10:37,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV3综艺,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 CCTV13新闻,http://pull-hls-f11.douyincdn.com/media/stream-695463869641654956.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774323312&major_anchor_level=common&sign=dfda07bbe4deae27fca9056fa74223e9&t_id=037-202603171135129F43485267BFE29CDDD5-aqeKOH
@@ -88,7 +87,6 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 龙泉电视台,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 江苏地区,#genre#
-南京十八生活,http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
 宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 黑龙江地区,#genre#
 哈尔滨新闻综合,https://rmplive.hljtv.com/live/haerbin.m3u8
@@ -122,8 +120,6 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 海伦市综合,https://masterpull.hljtv.com/live/VFNlgeFO.m3u8
 大兴安岭新闻综合,https://masterpull.hljtv.com/live/H2kVyS15.m3u8
 大兴安岭新闻综合,https://rmplive.hljtv.com/live/daxinganling.m3u8
-江西地区,#genre#
-广丰电视台,https://play-a2.quklive.com/live/1754033359790055.m3u8
 陕西地区,#genre#
 陕西新闻资讯,http://gxlive.snrtv.com/sx1-SD.m3u8
 陕西都市青春,http://gxlive.snrtv.com/sx2-SD.m3u8
@@ -302,7 +298,6 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 秦安电视台,https://play.kankanlive.com/live/1680577080200944.m3u8
 秦安电视台,http://play.kankanlive.com/live/1680577080200944.flv
 超清频道,#genre#
-CCTV1超清,http://pull-hls-f11.douyincdn.com/media/stream-695495633950212780.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774392580&major_anchor_level=common&sign=8e8ee728e46d27c49efd41867c90cfb9&t_id=037-202603180649390C97795E3464C40E5141-Np7dOl
 CCTV3超清,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 CCTV13超清,http://pull-hls-f11.douyincdn.com/media/stream-695463869641654956.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774323312&major_anchor_level=common&sign=dfda07bbe4deae27fca9056fa74223e9&t_id=037-202603171135129F43485267BFE29CDDD5-aqeKOH
 CCTV13超清,http://pull-hls-f11.douyincdn.com/media/stream-695465280141001388.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774323377&major_anchor_level=common&sign=772f12f93ba40960ef86c70179d8b7f5&t_id=037-20260317113617F541C88961455401EC09-KrODew
